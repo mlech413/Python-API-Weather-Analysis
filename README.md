@@ -1,1 +1,4 @@
 # Python-API-Weather-Analysis
+## Analysis of weather statistics in cities across both hemispheres as they approach the equator
+### WeatherPy: Jupyter notebook Python script "WeatherPy.ipynb" to visualize the weather of over 500 cities of varying distances from the equator using the citipy Python library and the OpenWeatherMap API. Additional output charts and cities.csv file created in folder "output_data". Linear regression is then computed and scatter plots created for each relationship.
+### VacationPy: Vacation research using Jupyter notebook script "VacationPy.ipynb", the geoViews Python library, and the Geoapify API. A global map is created showing the humidity of all cities from the previous WeatherPy work. "Ideal" weather locations are identified and mapped using the Geoapify API, including hotels located in each destination.
